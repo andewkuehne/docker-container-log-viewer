@@ -10,7 +10,7 @@ Docker Container Log Viewer is a web application that allows you to view the log
 ## Usage
 
 1. Clone this repository:
-git clone https://github.com/<your_username>/docker-container-log-viewer.git
+git clone https://github.com/andewkuehne/docker-container-log-viewer.git
 
 
 2. Navigate to the project directory:
